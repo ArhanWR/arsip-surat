@@ -39,17 +39,17 @@ Aplikasi web untuk mengarsipkan surat agar mudah diatur, dicari, dan didokumenta
 
 ## Screenshot Tampilan Aplikasi
 1. Tabel Arsip Surat
-![Arsip](public\images\foto_Arsip.png)
+![Arsip](images\foto_Arsip.png)
 2. Upload Arsip Surat
-![Mengupload Arsip](public\images\foto_Upload_Arsip.png)
+![Mengupload Arsip](images\foto_Upload_Arsip.png)
 3. Warning Hapus Arsip Surat
-![Warning Menghapus Arsip](public\images\foto_Warning_Hapus.png)
+![Warning Menghapus Arsip](images\foto_Warning_Hapus.png)
 4. Menampilkan Arsip Surat
-![Show Arsip](public\images\foto_Show_Arsip.png)
+![Show Arsip](images\foto_Show_Arsip.png)
 5. Tabel Kategori
-![Kategori](public\images\foto_Kategori.png)
+![Kategori](images\foto_Kategori.png)
 6. Menambahkan Kategori dan Mengedit Kategori
-![Tambah Kategori](public\images\foto_Tambah_Kategori.png)
-![Edit Kategori](public\images\foto_Edit_Kategori.png)
+![Tambah Kategori](images\foto_Tambah_Kategori.png)
+![Edit Kategori](images\foto_Edit_Kategori.png)
 7. About
-![About](public\images\foto_About.png)
+![About](images\foto_About.png)
