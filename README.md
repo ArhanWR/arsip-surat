@@ -38,18 +38,18 @@ Aplikasi web untuk mengarsipkan surat agar mudah diatur, dicari, dan didokumenta
    php artisan serve (pastikan npm run dev juga berjalan)
 
 ## Screenshot Tampilan Aplikasi
-1. Tabel Arsip Surat
-![Arsip](images\foto_Arsip.png)
-2. Upload Arsip Surat
-![Mengupload Arsip](images\foto_Upload_Arsip.png)
-3. Warning Hapus Arsip Surat
-![Warning Menghapus Arsip](images\foto_Warning_Hapus.png)
-4. Menampilkan Arsip Surat
-![Show Arsip](images\foto_Show_Arsip.png)
-5. Tabel Kategori
-![Kategori](images\foto_Kategori.png)
-6. Menambahkan Kategori dan Mengedit Kategori
-![Tambah Kategori](images\foto_Tambah_Kategori.png)
-![Edit Kategori](images\foto_Edit_Kategori.png)
-7. About
-![About](images\foto_About.png)
+1. Tabel Arsip Surat<br>
+![Arsip](public\images\foto_Arsip.png)<br>
+2. Upload Arsip Surat<br>
+![Mengupload Arsip](public\images\foto_Upload_Arsip.png)<br>
+3. Warning Hapus Arsip Surat<br>
+![Warning Menghapus Arsip](public\images\foto_Warning_Hapus.png)<br>
+4. Menampilkan Arsip Surat<br>
+![Show Arsip](public\images\foto_Show_Arsip.png)<br>
+5. Tabel Kategori<br>
+![Kategori](public\images\foto_Kategori.png)<br>
+6. Menambahkan Kategori dan Mengedit Kategori<br>
+![Tambah Kategori](public\images\foto_Tambah_Kategori.png)<br>
+![Edit Kategori](public\images\foto_Edit_Kategori.png)<br>
+7. About<br>
+![About](public\images\foto_About.png)
