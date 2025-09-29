@@ -6,7 +6,7 @@
 <div class="about-container">
     <img src="{{ asset('images\foto.jpg') }}" alt="Foto Saya" 
          class="img-thumbnail mt-3 mb-3"
-         style="width: 200px; height: 200px; object-fit: contain; background-color: white;">
+         style="width: fit-content; border:5px solid; height: 200px; object-fit: contain; background-color: white;">
 
     <div class="about-info"><strong>
         <p>Aplikasi ini dibuat oleh:</p>
